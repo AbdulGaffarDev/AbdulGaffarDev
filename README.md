@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdulGaffarDev
-- 👀 I’m interested in Frontend Development 
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m Frontend Development 
+- 🌱 I’m currently learning frontend technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me a.gaffar.dev@gmail.com 
 - 😄 Pronouns: He/Him
