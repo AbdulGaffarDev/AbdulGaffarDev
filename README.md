@@ -5,7 +5,7 @@
 
 # 👋 Hi there, I'm Abdul Gaffar
 
-### 🚀 MERN Stack Developer | 💻 Open Source Contributor | 🌐 Lifelong Learner
+### 🚀 MERN Stack Developer | 🌐 Lifelong Learner
 
 ---
 
