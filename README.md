@@ -1,6 +1,7 @@
 <!-- Animated Banner -->
+<div padding="4px">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Abdul+Gaffar+👋;MERN+Stack+Developer+%7C+Open+Source+Enthusiast;Love+to+build+cool+web+stuff+🚀;Always+learning+something+new+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Abdul+Gaffar+👋;MERN+Stack+Developer+%7C+Open+Source+Enthusiast;Love+to+build+cool+web+stuff+🚀;Always+learning+something+new+💡" alt="Typing SVG" />
 </p>
 
 # 👋 Hi there, I'm Abdul Gaffar
@@ -81,3 +82,5 @@ If you find my work helpful, consider giving a ⭐ to my repos!
 ---
 
 **Thanks for visiting! 🚀**
+
+</div>
