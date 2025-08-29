@@ -5,7 +5,7 @@
 </p>
 
 # 👋 Hi there, I'm Abdul Gaffar 
-<!-- <img src="https://komarev.com/ghpvc/?username=AbdulGaffarDev&label=Profile%20Views&color=orange&style=flat-square" align="right" /> -->
+ <img src="https://komarev.com/ghpvc/?username=AbdulGaffarDev&label=Profile%20Views&color=orange&style=flat-square" align="right" /> 
 
 ### 🚀 MERN Stack Developer 
 
