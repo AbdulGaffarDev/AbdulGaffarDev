@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Abdul+Gaffar+👋;MERN+Stack+Developer+%7C+Open+Source+Enthusiast;Love+to+build+cool+web+stuff+🚀;Always+learning+something+new+💡" alt="Typing SVG" />
 </p>
 
-# 👋 Hi there, I'm Abdul Gaffar
+# 👋 Hi there, I'm Abdul Gaffar 
+<!-- <img src="https://komarev.com/ghpvc/?username=AbdulGaffarDev&label=Profile%20Views&color=orange&style=flat-square" align="right" /> -->
 
 ### 🚀 MERN Stack Developer 
 
