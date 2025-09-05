@@ -68,7 +68,7 @@ I'm always open to collaboration, contribution, and connecting with like-minded 
 
 Here are a few highlighted repositories:
 
-- 🔧 [StaffVertex](https://staffvertex-web-new.vercel.app/) – Next JS + TypeScript + Redux + Tailwind  
+- 🔧 [StaffVertex](https://staffvertex-web-new.vercel.app/) – Next JS + TypeScript + Redux + Tailwind + MongoDB + Mongoose 
 - 📚 [Stop Watch](https://github.com/AbdulGaffarDev/stopwatch) – Vanilla JS project  
 - 🎓 [University Assignments & Practice](https://github.com/AbdulGaffarDev/JavaRailwayReservationSystem) – Java Railway Reservation System  
 
