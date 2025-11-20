@@ -77,7 +77,7 @@ I'm always open to **collaboration, contribution, and connecting** with like-min
 <td width="50%" align="center">
   
 ### 🔧 StaffVertex  
-<sub>🚀 A complete Staff Management platform built with <b>MERN Technologies</b>.</sub>  
+<sub>🚀 A complete Staff Management platform built with <b>Next.js Technologies</b>.</sub>  
 <br/>
 <a href="https://staffvertex.com" target="_blank">
   <img src="https://img.shields.io/badge/🔗 Visit%20StaffVertex-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
