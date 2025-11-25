@@ -2,7 +2,7 @@
 <div align="center" style="padding:15px; background: linear-gradient(135deg, #f9fafb, #e0f2fe); color:#0f172a;">
 <!-- Banner Typing SVG -->
 <br/><br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Abdul+Gaffar+👋;MERN+Stack+Developer+%7C+Open+Source+Enthusiast;Love+to+build+cool+web+stuff+🚀;Always+learning+something+new+💡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Abdul+Gaffar+👋;React+&+Next.js+Developer+%7C+Open+Source+Enthusiast;Love+to+build+cool+web+stuff+🚀;Always+learning+something+new+💡" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,13 +10,13 @@
 # 👋 Hi there, I'm Abdul Gaffar  
 <img src="https://komarev.com/ghpvc/?username=AbdulGaffarDev&label=Profile%20Views&color=0EA5E9&style=flat-square" align="right" />  
 
-### 🚀 MERN Stack Developer  
+### 🚀 React & Next.js Stack Developer  
 
 ---
 
 ## 💡 About Me  
 
-I'm a passionate **MERN Stack Developer** with **1+ year of experience** from Pakistan 🇵🇰.  
+I'm a passionate **React & Next.js Developer** with **1+ year of experience** from Pakistan 🇵🇰.  
 I love to build **new tools & technologies**, full-stack apps, and explore emerging tech.  
 
 I'm always open to **collaboration, contribution, and connecting** with like-minded developers!  
@@ -37,6 +37,7 @@ I'm always open to **collaboration, contribution, and connecting** with like-min
 
 ### ⚙️ Backend:
 ![NodeJS](https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10B981?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-B91C1C?style=for-the-badge&logo=mongoose&logoColor=white)
