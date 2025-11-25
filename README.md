@@ -38,7 +38,6 @@ I'm always open to **collaboration, contribution, and connecting** with like-min
 ### ⚙️ Backend:
 ![NodeJS](https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10B981?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-B91C1C?style=for-the-badge&logo=mongoose&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-0284C7?style=for-the-badge&logo=rest&logoColor=white)
