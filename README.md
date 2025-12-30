@@ -54,6 +54,7 @@ I'm always open to **collaboration, contribution, and connecting** with like-min
 ## 📈 GitHub Stats  
 
 <div align="center">
+  <!-- IMPORTANT: Consider deploying private instances to avoid rate limiting -->
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulGaffarDev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulGaffarDev&theme=tokyonight&hide_border=true" width="48%" />
 </div>
@@ -63,7 +64,7 @@ I'm always open to **collaboration, contribution, and connecting** with like-min
 ## 📊 Mostly Used Languages  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGaffarDev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGaffarDev&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
