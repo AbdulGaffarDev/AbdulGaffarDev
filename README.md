@@ -1,29 +1,28 @@
 <!-- Animated Banner -->
-<div align="center" style="padding:15px; background: linear-gradient(135deg, #f9fafb, #e0f2fe); color:#0f172a;">
+<div align="center">
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Abdul+Gaffar+👋;MERN+%26+Next.js+Developer;Building+Scalable+SaaS+Applications+🚀;Focused+on+Performance+%26+Clean+Architecture" alt="Typing SVG" />
 <br/><br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Abdul+Gaffar+👋;MERN+%26+Next.js+Developer;Building+Scalable+Web+Applications+🚀;Focused+on+Performance+%26+Clean+Architecture" alt="Typing SVG" />
 </div>
 
 ---
 
-# 👋 Hi there, I'm Abdul Gaffar  
-<img src="https://komarev.com/ghpvc/?username=AbdulGaffarDev&label=Profile%20Views&color=0EA5E9&style=flat-square" align="right" />  
+# 👋 Hi there, I'm Abdul Gaffar
+<img src="https://komarev.com/ghpvc/?username=AbdulGaffarDev&label=Profile%20Views&color=0EA5E9&style=flat-square" align="right" />
 
-### 🚀 MERN & Next.js Developer  
+### 🚀 MERN & Next.js Developer
 
 ---
 
-## 💡 About Me  
+## 💡 About Me
 
 I'm a MERN & Next.js Developer from Pakistan 🇵🇰, focused on building **scalable, high-performance web applications**.
 
-Currently working at **Alphinex Solutions**, contributing to **StaffVertex**, a team management & time tracking SaaS platform. My work primarily centers on frontend architecture while actively contributing to backend features using Next.js APIs.
-
-I enjoy working on real-world product development, performance optimization, and clean, maintainable codebases.
+Currently working at **Alphinex Solutions**, contributing to **StaffVertex** — a B2B SaaS platform for team management and time tracking. My work spans frontend architecture and backend API development using Next.js, MongoDB, and Mongoose. I also freelance on **Fiverr**, building full-stack solutions for clients including multi-tenant SaaS platforms and healthcare systems.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend:
 ![React](https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
@@ -44,28 +43,29 @@ I enjoy working on real-world product development, performance optimization, and
 ![Git](https://img.shields.io/badge/Git-F43F5E?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-E11D48?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Route_53-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulGaffarDev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulGaffarDev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=AbdulGaffarDev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulGaffarDev&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
 </div>
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
 <td width="50%" align="center">
-  
-### 🔧 StaffVertex  
-<sub>🚀 Team Management & Time Tracking SaaS Platform</sub>  
+
+### 🔧 StaffVertex
+<sub>🚀 B2B SaaS — Team Management & Time Tracking</sub>
 <br/>
 <a href="https://staffvertex.com" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Visit%20StaffVertex-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -74,12 +74,12 @@ I enjoy working on real-world product development, performance optimization, and
 </td>
 
 <td width="50%" align="center">
-  
-### 💼 Portfolio Website  
-<sub>🌐 Personal portfolio showcasing projects & technical work</sub>  
+
+### 🏥 Simple Green Solutions
+<sub>Healthcare SaaS — Hospital & Pharmacy Management</sub>
 <br/>
-<a href="https://abdul-gaffar.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Visit%20Portfolio-9333EA?style=for-the-badge&logo=react&logoColor=white" />
+<a href="https://sgreensolutions.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Visit%20SGS-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
@@ -88,17 +88,19 @@ I enjoy working on real-world product development, performance optimization, and
 <tr>
 <td width="50%" align="center">
 
-### ⏱️ TimSync  
-<sub>Task & Time Tracking Application (React + Zustand)</sub>  
+### 💼 Portfolio Website
+<sub>🌐 Personal portfolio showcasing projects & technical work</sub>
 <br/>
-<img src="https://img.shields.io/badge/🚧 In%20Development-F59E0B?style=for-the-badge" />
+<a href="https://abdul-gaffar.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Visit%20Portfolio-9333EA?style=for-the-badge&logo=react&logoColor=white" />
+</a>
 
 </td>
 
 <td width="50%" align="center">
 
-### 🔎 GitHub User Finder  
-<sub>React-based GitHub API search application</sub>  
+### 🔎 GitHub User Finder
+<sub>React-based GitHub API search application</sub>
 <br/>
 <a href="https://abdulgaffardev.github.io/Github-User-Finder/" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Try%20GitHub%20Finder-22C55E?style=for-the-badge&logo=github&logoColor=white" />
@@ -110,10 +112,9 @@ I enjoy working on real-world product development, performance optimization, and
 
 </div>
 
-
 ---
 
-## 📬 Connect With Me  
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulgaffardev" target="_blank">
@@ -122,6 +123,9 @@ I enjoy working on real-world product development, performance optimization, and
   <a href="mailto:abdulgaffar.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.fiverr.com/abdulgaffardev" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
   <a href="https://abdul-gaffar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
@@ -129,10 +133,10 @@ I enjoy working on real-world product development, performance optimization, and
 
 ---
 
-## ❤️ Support My Work  
+## ❤️ Support My Work
 
-If you find my work useful, consider giving a ⭐ to my repositories.  
-Most projects are built as part of continuous learning and product-focused experimentation.
+If you find my work useful, consider giving a ⭐ to my repositories.
+Most projects are built as part of continuous learning and product-focused development — from SaaS platforms to freelance client work.
 
 ---
 
