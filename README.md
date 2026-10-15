@@ -1,11 +1,11 @@
 <div align="center">
-<br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Abdul+Gaffar+👋;MERN+%26+Next.js+Developer;Building+Multi-Tenant+SaaS+Platforms+🚀;AI+Automation+with+n8n%2C+Zapier+%26+OpenAI+⚡" alt="Typing SVG" />
+
+<a href="https://abdul-gaffar.dev"><img src="./assets/banner.png" alt="Abdul Gaffar: MERN & Next.js Developer. I build web applications that ship." width="100%" /></a>
+
 <br/><br/>
 
-<a href="https://abdul-gaffar.dev"><img src="https://img.shields.io/badge/Portfolio-abdul--gaffar.dev-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="https://calendly.com/a-gaffar-dev/30min"><img src="https://img.shields.io/badge/Book_a_call-30_min-10B981?style=flat-square&logo=calendly&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Status-Available_for_freelance-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Contributions-3%2C200%2B_this_year-6366F1?style=flat-square&logo=github&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=AbdulGaffarDev&label=Profile%20Views&color=0EA5E9&style=flat-square" />
 
 </div>
@@ -77,7 +77,7 @@ I'm a full-stack developer from **Islamabad, Pakistan 🇵🇰** with **2+ years
 
 ## 📂 Featured Projects
 
-> Most of my production work is client or company code in private repositories. Case studies are on [my portfolio](https://abdul-gaffar.dev/work).
+> **3,200+ contributions this year, mostly in private client and company repos.** That's why my public repos are few and older. Case studies for the work below are on [my portfolio](https://abdul-gaffar.dev/work).
 
 <table>
 <tr>
@@ -157,7 +157,11 @@ Fast point-of-sale app for retail counters that runs fully offline: quick billin
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdulGaffarDev&theme=tokyonight&hide_border=true" width="60%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbdulGaffarDev&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AbdulGaffarDev&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=AbdulGaffarDev&theme=default&hide_border=true" alt="GitHub streak stats" width="60%" />
+  </picture>
 </div>
 
 ---
