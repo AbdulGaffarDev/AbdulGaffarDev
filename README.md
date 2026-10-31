@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://abdul-gaffar.dev"><img src="./assets/banner.png" alt="Abdul Gaffar: MERN & Next.js Developer. I build web applications that ship." width="100%" /></a>
+<a href="https://abdul-gaffar.dev/go/github"><img src="./assets/banner.png" alt="Abdul Gaffar: MERN & Next.js Developer. I build web applications that ship." width="100%" /></a>
 
 <br/><br/>
 
@@ -77,7 +77,7 @@ I'm a full-stack developer from **Islamabad, Pakistan 🇵🇰** with **2+ years
 
 ## 📂 Featured Projects
 
-> **3,200+ contributions this year, mostly in private client and company repos.** That's why my public repos are few and older. Case studies for the work below are on [my portfolio](https://abdul-gaffar.dev/work).
+> **3,200+ contributions this year, mostly in private client and company repos.** That's why my public repos are few and older. Case studies for the work below are on [my portfolio](https://abdul-gaffar.dev/go/github-work).
 
 <table>
 <tr>
@@ -171,7 +171,7 @@ Fast point-of-sale app for retail counters that runs fully offline: quick billin
 Need an MVP, a dashboard, an automation, or help rescuing an existing codebase? I reply within 12 hours.
 
 <p align="center">
-  <a href="https://abdul-gaffar.dev"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://abdul-gaffar.dev/go/github"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdul-gaffar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:a.gaffar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/GaffarDev"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white"/></a>
